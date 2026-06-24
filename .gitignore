@@ -1,7 +1,5 @@
 # ===== Projekt-spezifisch =====
-# Internes Archiv / Quellmaterial nicht veröffentlichen
-Archiv/
-/Archiv
+
 
 # ===== Betriebssystem =====
 .DS_Store

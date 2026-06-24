@@ -11,7 +11,7 @@ Grundbildung in der ICT"_ von **ICT-Berufsbildung Schweiz** (in Kraft seit 01.06
 
 ## 🔗 Schnellzugriff
 
-- **🖥️ Live-Mockups (GitHub Pages):** https://staubthom.github.io/KompetenzHub/
+- **🖥️ Live-Mockups (GitHub Pages):** https://staubthom.github.io/KompetenzHub_dev/mockups/index.html
 - **📁 Mockups (Quellcode):** [`mockups/`](./mockups/index.html)
 - **📚 Planungsdokumentation:** [`docs/`](./docs/00-README.md)
 

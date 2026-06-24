@@ -17,7 +17,7 @@
 
 $ErrorActionPreference = 'Stop'
 
-$Repo = if ($env:REPO) { $env:REPO } else { 'staubthom/KompetenzHub' }
+$Repo = if ($env:REPO) { $env:REPO } else { 'staubthom/KompetenzHub_dev' }
 Write-Host "==> Repository: $Repo"
 
 # --- Vorpruefung ------------------------------------------------------------

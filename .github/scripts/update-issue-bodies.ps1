@@ -25,7 +25,7 @@ param([switch]$WhatIf)
 
 $ErrorActionPreference = 'Stop'
 
-$Repo = if ($env:REPO) { $env:REPO } else { 'staubthom/KompetenzHub' }
+$Repo = if ($env:REPO) { $env:REPO } else { 'staubthom/KompetenzHub_dev' }
 Write-Host "==> Repository: $Repo"
 
 # gh finden: zuerst im PATH, sonst Standard-Installationspfade (frische Installation
